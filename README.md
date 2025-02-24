@@ -15,9 +15,15 @@ This project aims to build a machine learning model that predicts whether a cust
 > ✅ Steps:
 > 
 1️⃣ Load & Explore Data
+
 2️⃣ Data Preprocessing (Handling Missing Data, Encoding, Scaling)
+
 3️⃣ Exploratory Data Analysis (EDA)
+
 4️⃣ Train-Test Split
+
 5️⃣ Model Training & Evaluation
+
 6️⃣ Hyperparameter Tuning
+
 7️⃣ Deployment using Flask API
